@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: OP源码19.07
+name: Lienol-19.07
 
 on:
   repository_dispatch:
