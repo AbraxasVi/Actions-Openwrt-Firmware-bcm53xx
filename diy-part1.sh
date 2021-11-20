@@ -19,4 +19,4 @@ sed -i '$a src-git kenzok https://github.com/kenzok8/openwrt-packages' feeds.con
 sed -i '$a src-git small https://github.com/kenzok8/small' feeds.conf.default
 
 # Add serverchan Server酱推送
-git clone https://github.com/tty228/luci-app-serverchan package/lean/luci-app-serverchan
+#git clone https://github.com/tty228/luci-app-serverchan package/lean/luci-app-serverchan
